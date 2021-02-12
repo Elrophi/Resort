@@ -137,6 +137,30 @@
     line-height: 27px;    
 }
 
+.btn1{
+    background-color: teal;
+}
+.btn1 a{
+    text-decoration: none;
+    color: white;
+}
+
+.btn2{
+    background-color: teal;
+}
+.btn2 a{
+    text-decoration: none;
+    color: white;
+}
+
+.btn3{
+    background-color: teal;
+}
+.btn3 a{
+    text-decoration: none;
+    color: white;
+}
+
 /* For Body project 
 .column{
     float: left;
