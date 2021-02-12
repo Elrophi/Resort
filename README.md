@@ -2,7 +2,7 @@
 
 This is a landing portfolio landing page with an about me and my project sections.
 
->### Author: [El-rophi Skwaila] ()
+>### Author: [El-rophi Skwaila] (https://elrophi.github.io/Resort/)
 
 ### Technology Used: -
 >-HTML 
