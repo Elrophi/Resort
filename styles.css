@@ -31,7 +31,7 @@
     color: white;
 }
 
-/* Nav-bar */
+/* Nav-bar  Home Page*/
 .top-nav{
     overflow: hidden;
     background-color: teal;   
@@ -61,6 +61,37 @@
     color: white;
 }
 
+
+/* Nav Bar Favorite things page */
+
+.top-nav1{
+    overflow: hidden;
+    background-color: teal;   
+}
+
+.top-nav1 a{
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.nav-right{
+    float: right;
+}
+
+.active{
+    background-color: rgb(2, 41, 41);
+}
+
+.top-nav1 a:hover{
+    background-color:rgb(2, 41, 41);
+    color: white;
+}
 
 /* Details */
 .ellipse{
@@ -182,7 +213,7 @@
     clear: both;
 }*/
 
-/* Flexbox */
+/* Flexbox home.html*/
 .row{
     display: flex;
     background-color: teal;
@@ -204,6 +235,33 @@
 .column p{
     text-align: justify;
 }
+
+
+/* Flex Favoritethings.html */
+
+.row1{
+    display: flex;
+    background-color: teal;
+    justify-content: space-between;
+    margin-top: 7%;
+    
+}
+.row1:hover{
+    box-shadow: 0 15px 30px black;
+}
+
+.column1 {
+    background-color: white;
+    margin: 10px;
+    padding: 20px;
+    font-size: 20px;
+    flex-wrap: wrap;
+    /* justify-content: space-between; */
+}
+.column1 p{
+    text-align: justify;
+}
+
 
 /* footer */
 .footer{
