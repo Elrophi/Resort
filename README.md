@@ -1,10 +1,11 @@
 # Porfolio Landing Page
 
-This is a landing portfolio landing page with an about me and my project sections.
+This is a portfolio landing page with an about me and my project sections.
 
 >### Author: [El-rophi Skwaila](https://elrophi.github.io/Resort/)
+---
 
-### Technology Used: -
+### Technology Used: 
 >-HTML 
 >-CSS
 
@@ -12,6 +13,11 @@ This is a landing portfolio landing page with an about me and my project section
 1. Clone to Local Machine on terminal or copy the link from github
 1. Use the Live Server to run the live site
 1. Done
+
+### Email: Elrophi@gmail.com
+### Contact: 0700 000 000
+
+---
 
 ### Copyright and License
 MIT License
