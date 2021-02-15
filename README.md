@@ -1,10 +1,10 @@
 # Portfolio Landing Page
 
-___This is a portfolio landing page with an about me and my project sections.___
+```This is a portfolio landing page with an about me and my project sections with buttons to the approriate project pages.```
 
 >### Author: [El-rophi Skwaila](https://elrophi.github.io/Resort/home.html)
 ---
-___Click on author's name to access webpage___
+___\*Click on author's name to access webpage*___
 
 ---
 
