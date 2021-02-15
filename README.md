@@ -25,7 +25,7 @@ ___\*Click on author's name to access webpage*___
 ### Copyright and License
 MIT License
 
-Copyright (c) 2021 El-rophi
+Copyright (c) 2021 El-rophi Skwaila
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
