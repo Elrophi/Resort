@@ -148,10 +148,19 @@
     line-height: 2px;
 }
 
+/* Welcome image / text */
 .bg img{
     width: 100%;
 }
 
+.center h1{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 50px;
+    color: white;
+}
 /* For Body about me */
 
 .project{
@@ -171,6 +180,12 @@
 
 .btn1{
     background-color: teal;
+    border: none;
+    outline: none;
+    font-size: 18px;
+    bottom: 20px;
+    right: 20px;
+    z-index: 99;
 }
 .btn1 a{
     text-decoration: none;
@@ -179,6 +194,12 @@
 
 .btn2{
     background-color: teal;
+    border: none;
+    outline: none;
+    font-size: 18px;
+    bottom: 20px;
+    right: 20px;
+    z-index: 99;
 }
 .btn2 a{
     text-decoration: none;
@@ -187,6 +208,12 @@
 
 .btn3{
     background-color: teal;
+    border: none;
+    outline: none;
+    font-size: 18px;
+    bottom: 20px;
+    right: 20px;
+    z-index: 99;
 }
 .btn3 a{
     text-decoration: none;
